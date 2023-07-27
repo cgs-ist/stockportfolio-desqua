@@ -10,5 +10,5 @@ public class Stock {
         this.name = name;
         this.price = price;
     }
-
+// 
 }
