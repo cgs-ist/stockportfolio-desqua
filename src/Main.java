@@ -16,7 +16,5 @@ public class Main {
         portfolio.viewPortfolio();
 
         scanner.close();
-
-        //
     }
 }
